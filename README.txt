@@ -33,4 +33,4 @@ License:
 This project is licensed under the MIT License.
 
 Author:
-Developed by [Your Name] as part of the Prodigy Cyber Security internship.
+Developed by Nikitha Elugubanti as part of the Prodigy Cyber Security internship.
